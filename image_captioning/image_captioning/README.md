@@ -315,9 +315,4 @@ Check these links:
 - [Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers, Schmidt et al.](https://arxiv.org/abs/2007.01547)
 - [An overview of gradient descent optimization algorithms, Ruder](https://arxiv.org/pdf/1609.04747.pdf)
 
-## Authorship
 
-Mikel Sagardia, 2022.  
-No guarantees.
-
-You are free to use this project, but please link it back to the original source.
